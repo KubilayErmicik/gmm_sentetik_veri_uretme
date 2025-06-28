@@ -1,0 +1,1 @@
+# gmm_sentetik_veri_uretme
